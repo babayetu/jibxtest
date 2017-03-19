@@ -9,7 +9,7 @@ public class Birthday {
     public Birthday(String birthday) {
         this.birthday = birthday;
     }
-    //getter、setter
+
     public Birthday() {}
 
     @Override
